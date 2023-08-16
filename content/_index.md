@@ -4,24 +4,19 @@ title: Homepage
 
 # Paulo R. S. S. Alves
 
-## Especialista em gestão do tempo e síndrome do Burnout
+## Especialista em tratamento da procrastinação e em estratégias de gestão do tempo.
 
 Contrate-me!
 
----
+# Psicoterapia
 
-# O propósito da gestão do tempo
+--pass
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis bibendum ut tristique et egestas quis. Venenatis cras sed felis eget velit aliquet. Porttitor leo a diam sollicitudin tempor id eu nisl. Eros in cursus turpis massa tincidunt dui ut. Mollis aliquam ut porttitor leo a. Sed lectus vestibulum mattis ullamcorper velit sed. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Ultrices neque ornare aenean euismod elementum. Mauris in aliquam sem fringilla ut morbi tincidunt augue.
+# Procrastinação e Gestão do Tempo
 
-Sit amet mauris commodo quis imperdiet massa tincidunt. Integer eget aliquet nibh praesent tristique. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Varius morbi enim nunc faucibus. Sit amet nisl purus in mollis nunc sed. Eu scelerisque felis imperdiet proin fermentum leo vel. Bibendum enim facilisis gravida neque convallis a cras semper. Cursus mattis molestie a iaculis. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Euismod quis viverra nibh cras pulvinar. Habitasse platea dictumst vestibulum rhoncus. Pretium nibh ipsum consequat nisl vel pretium lectus. Urna condimentum mattis pellentesque id. Neque convallis a cras semper auctor neque vitae tempus.
+**ENXUGAR**
+Não é preguiça que faz as pessoas procrastinarem. As tarefas podem nos causar certa resistência, mas por quê? Desde confusão a respeito do que precisar ser feito a entraves emocionais, a procrastinação tem múltiplas causas.
 
----
+Pode ser que a procrastinação seja causada por falta de habilidade. Não dominar as técnicas de organização do tempo pode resultar em um adiamento praticamente involuntário dos afazeres. Porém, administrar o tempo não é usar agenda. Essa é apenas a ponta do iceberg.
 
-# A síndrome de Burnout e o seu tratamento
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Felis bibendum ut tristique et egestas quis. Venenatis cras sed felis eget velit aliquet. Porttitor leo a diam sollicitudin tempor id eu nisl. Eros in cursus turpis massa tincidunt dui ut. Mollis aliquam ut porttitor leo a. Sed lectus vestibulum mattis ullamcorper velit sed. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Ultrices neque ornare aenean euismod elementum. Mauris in aliquam sem fringilla ut morbi tincidunt augue.
-
-Sit amet mauris commodo quis imperdiet massa tincidunt. Integer eget aliquet nibh praesent tristique. Gravida quis blandit turpis cursus in hac habitasse platea dictumst. Odio facilisis mauris sit amet massa vitae tortor condimentum lacinia. Varius morbi enim nunc faucibus. Sit amet nisl purus in mollis nunc sed. Eu scelerisque felis imperdiet proin fermentum leo vel. Bibendum enim facilisis gravida neque convallis a cras semper. Cursus mattis molestie a iaculis. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Euismod quis viverra nibh cras pulvinar. Habitasse platea dictumst vestibulum rhoncus. Pretium nibh ipsum consequat nisl vel pretium lectus. Urna condimentum mattis pellentesque id. Neque convallis a cras semper auctor neque vitae tempus.
-
----
+É preciso considerar essas duas frontes. Às vezes a procrastinação se dá apenas por questão de técnica. Às vezes é necessário investigar mais, conhecer melhor o seu contexto.
