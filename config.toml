@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Psicólogo Paulo Alves"
+
+theme = "lugo"
+
+[params]
+	main_page = "Paulo Alves | Psicólogo Clínico"
+
+[menu]
+	[[menu.main]]
+		name = "Posts"
+		url="/blog/"
+		weight = 2
+	[[menu.main]]
+		name = "Sobre" 
+		url= "/sobre/" 
+		weight = 3

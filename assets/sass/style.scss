@@ -1,0 +1,88 @@
+body {
+	font-family: sans-serif ;
+	background: #fff;
+	color: #333;
+	margin: 0 auto;
+}
+
+.navbar {
+	display: block;
+	position: fixed;
+	overflow: hidden;
+	top: 0;
+	width: 100%;
+	background: #fff;
+	box-shadow: 5px 1px 5px #999;
+
+	h1{
+		font-size: 1.8em;
+	}
+
+	a {
+		color: #1968e6;
+		padding-top: 1em;
+		text-decoration: none;
+	}
+
+	.container {
+		display: flex;
+		width: 80%;
+		margin: 0 auto;
+
+		// flexbox stuff
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+
+		.separator {
+			h1,h2{
+				display: inline-block;
+				a {
+					padding: 0.3em;
+					}
+			}
+		}
+	}
+}
+
+main {
+	max-width: 800px ;
+	margin: auto;
+	padding-top: 160px;
+		
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For TAGLIST.HTML */
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
+/* For NEXTPREV.HTML */
+#nextprev {
+	/* The container for both the previous and next articles. */
+}
+#prevart {
+	float: left ;
+	text-align: left ;
+}
+#nextart {
+	float: right ;
+	text-align: right ;
+}
+#nextart,#prevart {
+	max-width: 33% ;
+}
