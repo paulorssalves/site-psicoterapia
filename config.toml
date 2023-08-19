@@ -11,8 +11,20 @@ theme = "lugo"
 	[[menu.main]]
 		name = "Posts"
 		url="/blog/"
+		weight = 1
+	[[menu.main]]
+		name = "Contato" 
+		url= "/contato/" 
 		weight = 2
 	[[menu.main]]
 		name = "Sobre" 
 		url= "/sobre/" 
 		weight = 3
+	[[menu.main]]
+		name = "Procrastinação e Gestão do Tempo" 
+		url= "/gt/" 
+		weight = 4
+	[[menu.main]]
+		name = "Terapia" 
+		url= "/terapia/" 
+		weight = 4

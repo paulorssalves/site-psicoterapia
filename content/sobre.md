@@ -5,13 +5,10 @@ draft: false
 tags: ['pessoal', 'psicologia']
 ---
 
-# Sobre mim
+<h1 id="about-heading">Sobre mim</h1>
 
-Olá! Meu nome é Paulo, e eu sou psicólogo clínico.
+Olá! Meu nome é Paulo e eu sou formado em Psicologia pela Universidade do Estado do Rio de Janeiro. 
 
-Algumas coisas sobre mim:
-- Eu entrei na Psicologia graças a Jung;
-- Eu continuo lendo Jung e sou apaixonado pela Psicologia Analítica;
-- Entretanto, eu me aproximei da TCC por causa do padrão de pesquisa que ela possibilita.
+- Tenho experiência ampla na Psicologia, tendo me envolvido com múltiplas áreas de atuação. Sou pesquisador no estudo da procrastinação e da gestão do tempo, tendo múltiplos artigos ou publicados ou no prelo, e uma consultoria acadêmica própria. 
 
-![](/teste.png)
+Meu envolvimento com a clínica é majoritariamente movido pela Psicologia Analítica de Carl Jung, e tenho também influência de outras áreas, como a Terapia Cognitivo-Comportamental e a Fenomenologia. Trabalho com atendimento para **adultos** e **adolescentes** em clínica particular.
