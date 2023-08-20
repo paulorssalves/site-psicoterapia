@@ -23,7 +23,7 @@ O que eu preciso fazer para terminar este _hereproject_?
 	- minha formação
 	- minha especialidade
 - [ ] Criar página de `contato`;
-- [ ] Elaborar página principal `por último`;
+- [ ] Elaborar página principal _por último_;
 	- colocar nela: 
 		- [X] pequeno discurso sobre "saúde mental" e transtornos; falar sobre como a procrastinação e a gestão do tempo possuem duas facetas: uma de ordem psíquica e outra da ordem da habilidade.
 		- [X] Falar sobre procrastinação e gestão do tempo;
