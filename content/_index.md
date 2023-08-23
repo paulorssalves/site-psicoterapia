@@ -2,21 +2,14 @@
 title: Homepage 
 ---
 
-# Paulo R. S. S. Alves
+# Psicoterapia, tratamento para procrastinação e treinamento em gestão do tempo
 
-## Especialista em tratamento da procrastinação e em estratégias de gestão do tempo.
+## Psicoterapia
 
-Contrate-me!
+Trabalho por duas frontes: a **análise do comportamento** e a **investigação psicodinâmica**. Essas duas abordagens se complementam. Há momentos em que é suficiente aprender novas formas de agir. Em outros, é necessário uma investigação mais profunda na história da pessoa. É um trabalho investigativo e, sobretudo, _cooperativo_ -- entre o terapeuta e o cliente.
 
-# Psicoterapia
+## Procrastinação e Gestão do Tempo
 
---pass
+Tal como na psicoterapia geral é necessário abordar as questões ora por uma via comportamental, ora por uma investigação dos afetos, também se dá assim no tratamento da procrastinação.
 
-# Procrastinação e Gestão do Tempo
-
-**ENXUGAR**
-Não é preguiça que faz as pessoas procrastinarem. As tarefas podem nos causar certa resistência, mas por quê? Desde confusão a respeito do que precisar ser feito a entraves emocionais, a procrastinação tem múltiplas causas.
-
-Pode ser que a procrastinação seja causada por falta de habilidade. Não dominar as técnicas de organização do tempo pode resultar em um adiamento praticamente involuntário dos afazeres. Porém, administrar o tempo não é usar agenda. Essa é apenas a ponta do iceberg.
-
-É preciso considerar essas duas frontes. Às vezes a procrastinação se dá apenas por questão de técnica. Às vezes é necessário investigar mais, conhecer melhor o seu contexto.
+Nesta área, [na qual tenho múltiplas publicações](), trato estudantes e trabalhadores que almejam recuperar (ou conquistar pela primeira vez) o domínio do tempo e livrar-se do sentimento de urgência constante.
