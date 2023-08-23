@@ -7,11 +7,10 @@
 O que eu preciso fazer para terminar este _hereproject_?
 
 **Content-first!**
-- [ ] Criar uma aba sobre `terapia` 
+- [ ] Criar uma aba sobre `psicoterapia` 
 	- falar sobre a minha abordagem psicoterapêutica;
 		- como eu misturo Daseinsanalyse com Jung e TCCs. Mas falar disso de forma sexy.
-- [ ] Criar uma aba sobre `procrastinação, gestão do tempo e organização`
-	- Talvez uma para cada, talvez uma para todas. **Meditar sobre isso**.
+- [X] Criar uma aba sobre `procrastinação, gestão do tempo e organização`
 - [ ] Elaborar 6 postagens sobre procrastinação, gestão do tempo e organização
 	- [ ] O que esperar da terapia
 	- [ ] Gestão do tempo não é usar agenda
@@ -30,6 +29,20 @@ O que eu preciso fazer para terminar este _hereproject_?
 		- [ ] Inserir postagens do blog
 
 - [ ] Criar mapa do site (footer permanente)
+	- home
+	- sobre
+	- psicoterapia
+	- gt e procrastinação
+	- blog
+	- contato
+
+	//
+
+	- informações de contato
+		- celular
+		- email
+
+- [ ] Ver se é possível implementar um formulário (talvez com um serviço do Netlify?) no website, mesmo estático
 
 **Form last!**
 - [ ] Criar layout .css **mobile-first**.
