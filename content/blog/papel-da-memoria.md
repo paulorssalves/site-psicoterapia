@@ -2,6 +2,7 @@
 title: "A relação da memória com as nossas tarefas"
 date: 2023-08-18T23:39:04-03:00
 draft: false 
+tags: ["introdução", "memória", "gestão-do-tempo", "cognição-distribuída"]
 ---
 
 Em geral pode-se falar de dois tipos de memória: "de longo prazo" e "de curto prazo". A primeira é essencialmente um armazém de informações, lembranças e histórias, ao passo que a segunda é comumente chamada de "memória de trabalho". O motivo de ela ser assim chamada é porque as operações mentais que realizamos, nós realizamos _por meio dela_.
@@ -14,4 +15,4 @@ Se eu tenho que ficar lembrando das coisas que eu tenho que fazer, estou recorre
 
 Isso não é sustentável. A memória de trabalho não serve "para lembrar", mas sim para nos ajudar a realizar nossas tarefas, _enquanto as realizamos_. A melhor forma de utilizá-la é de maneira criativa, e não paranoica ("será que estou esquecendo de algo?").
 
-Porém, é comum que operemos nesse estado. Delegamos a tarefa de lembrar das tarefas para a nossa memória, e assim ficamos tensos, sobrecarregados, tendo que malabarizar nossos afazeres com a dúvida de assegurar que lembramos de todos eles. É possível proceder de forma diferente. Com o uso da [cognição distribuída][Cognição Distribuída] nós podemos aliviar o fardo da nossa memória e utilizá-la apenas para o que ela serve de melhor: criar, resolver, analisar, debater, pensar, refletir, duvidar, criticar... e assim por diante. Não precisaremos nos preocupar se estamos "nos esquecendo de algo".
+Porém, é comum que operemos nesse estado. Delegamos a tarefa de lembrar das tarefas para a nossa memória, e assim ficamos tensos, sobrecarregados, tendo que malabarizar nossos afazeres com a dúvida de assegurar que lembramos de todos eles. É possível proceder de forma diferente. Com o uso da [cognição distribuída](/blog/cognicao-distribuida) nós podemos aliviar o fardo da nossa memória e utilizá-la apenas para o que ela serve de melhor: criar, resolver, analisar, debater, pensar, refletir, duvidar, criticar... e assim por diante. Não precisaremos nos preocupar se estamos "nos esquecendo de algo".

@@ -2,6 +2,7 @@
 title: "Cognição distribuída"
 date: 2023-08-18T23:39:08-03:00
 draft: false 
+tags: ["cognição-distribuída", "memória", "introdução"]
 ---
 
 Definir "cognição" é difícil, mas podemos falar que _o cognitivo_ é aquilo que remete à memória, à lembrança ativa, ao ato de calcular, analisar um problema, pensar criticamente, discriminar entre objetos -- enfim, a resgatar e analisar informação. Todas as operações mentais conscientes que fazemos estão sob a alçada do "cognitivo". Há também os processos inconscientes, como há certo diálogo entre estes e os conscientes, mas não abordaremos isso aqui.
@@ -14,6 +15,6 @@ Uma ilustração disso: já tentou falar algo em que você pensava para, depois 
 
 Da mesma forma que a fala nos ajuda a elaborar, desembaraçar e desenvolver os nossos pensamentos e afetos, a escrita -- o lápis  o papel, o computador, o celular -- serve como apoio para o nosso raciocínio. Essas coisas são _artefatos cognitivos_ e viabilizam a _cognição distribuída_. Até mesmo [processamento das emoções pode ser auxiliado por tais artefatos](https://pubmed.ncbi.nlm.nih.gov/34011237/).
 
-Assim, para superar a procrastinação e melhor gerenciar o nosso tempo, podemos utilizar múltiplos objetos auxiliares ("artefatos"), [delegando para eles o papel de lembrar][A relação da memória com as nossas tarefas] da mesma forma que delegamos para o computador certas operações lógicas. Tradicionalmente, pensa-se na _agenda_ como uma ferramenta que serve para esse propósito, mas _qualquer coisa em que se pode escrever_ serve. Depende do seu gosto. [Administrar o tempo não é sinônimo de usar agenda]. Depende do seu gosto e de como essas ferramentas se encaixam na sua vida. Você pode usar exclusivamente o computador, o celular; pode usar uma resma de papel e lápis; pode usar agenda, cadernos, aplicativos, planilha de Excel, guardanapo, _Zettelkästen_, o que preferir.
+Assim, para superar a procrastinação e melhor gerenciar o nosso tempo, podemos utilizar múltiplos objetos auxiliares ("artefatos"), [delegando para eles o papel de lembrar](/blog/papel-da-memoria) da mesma forma que delegamos para o computador certas operações lógicas. Tradicionalmente, pensa-se na _agenda_ como uma ferramenta que serve para esse propósito, mas _qualquer coisa em que se pode escrever_ serve. Depende do seu gosto. [Administrar o tempo não é sinônimo de usar agenda](/blog/agenda). Depende do seu gosto e de como essas ferramentas se encaixam na sua vida. Você pode usar exclusivamente o computador, o celular; pode usar uma resma de papel e lápis; pode usar agenda, cadernos, aplicativos, planilha de Excel, guardanapo, _Zettelkästen_, o que preferir.
 
 Com o apoio de certas técnicas cognitivas, é possível vencer a resistência inicial que nos impede de _começar_ as tarefas e libertar-se da preocupação de ter que lembrar de tudo. O objetivo é simples: delegar para um sistema que criamos a tarefa de saber quais são as nossas pendências, e libertar a nossa mente de ter que fazer esse trabalho.

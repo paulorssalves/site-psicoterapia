@@ -2,6 +2,7 @@
 title: "Produtividade, trabalho e Burnout"
 date: 2023-08-18T23:39:17-03:00
 draft: false 
+tags: ["introdução", "produtividade", "burnout"]
 ---
 
 Se por um lado a gestão do tempo pode nos ajudar a ser mais produtivos, ela também pode nos ajudar a sermos _menos_. Isso parece contraditório, mas hoje em dia muitas pessoas padecem de uma certa dificuldade de "desligar o 'modo trabalho'".
