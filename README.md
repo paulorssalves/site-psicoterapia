@@ -12,12 +12,12 @@ O que eu preciso fazer para terminar este _hereproject_?
 		- como eu misturo Daseinsanalyse com Jung e TCCs. Mas falar disso de forma sexy.
 - [X] Criar uma aba sobre `procrastinação, gestão do tempo e organização`
 - [ ] Elaborar 6 postagens sobre procrastinação, gestão do tempo e organização
-	- [ ] O que esperar da terapia
+	- [X] O papel da memória na procrastinação e na gestão do tempo
+	- [X] Cognição distribuída e _affordances_
 	- [ ] Gestão do tempo não é usar agenda
-	- [ ] Cognição distribuída e _affordances_
-	- [ ] Procrastinação, impulsividade e resistência inicial
-	- [ ] O papel da memória na procrastinação e na gestão do tempo
-	- [ ] Gestão do tempo, estresse e lazer
+	- [ ] Os motivos da procrastinação 
+	- [X] Produtividade, Trabalho e Burnout 
+	- [ ] O que esperar da terapia
 - [X] Elaborar uma página de `Sobre` com informações a meu respeito
 	- minha formação
 	- minha especialidade
