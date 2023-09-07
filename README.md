@@ -14,7 +14,7 @@ O que eu preciso fazer para terminar este _hereproject_?
 - [ ] Elaborar 6 postagens sobre procrastinação, gestão do tempo e organização
 	- [X] O papel da memória na procrastinação e na gestão do tempo
 	- [X] Cognição distribuída e _affordances_
-	- [ ] Gestão do tempo não é usar agenda
+	- [X] Gestão do tempo não é usar agenda
 	- [X] Os motivos da procrastinação 
 	- [X] Produtividade, Trabalho e Burnout 
 	- [X] O que esperar da terapia
