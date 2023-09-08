@@ -1,6 +1,6 @@
 ---
 title: "O que esperar da terapia"
-date: 2023-08-18T23:39:20-03:00
+date: 2023-09-06T23:39:20-03:00
 draft: false 
 tags: ["terapia", "procrastinação", "gestão do tempo", "treinamento"]
 ---

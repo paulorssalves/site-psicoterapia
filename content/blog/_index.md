@@ -1,5 +1,3 @@
 ---
-title: "meu blog"
+title: "Postagens"
 ---
-
-Veja as minhas últimas postagens.

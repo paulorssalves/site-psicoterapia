@@ -1,6 +1,6 @@
 ---
 title: "Administrar o tempo não é usar agenda"
-date: 2023-08-18T23:39:12-03:00
+date: 2023-09-07T10:39:04-03:00
 draft: false 
 tags: ["gestão-do-tempo", "cognição-distribuída", "agenda", "introdução"]
 ---

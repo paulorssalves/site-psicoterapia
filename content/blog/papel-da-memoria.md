@@ -1,6 +1,6 @@
 ---
 title: "A relação da memória com as nossas tarefas"
-date: 2023-08-18T23:39:04-03:00
+date: 2023-08-24T23:39:04-03:00
 draft: false 
 tags: ["introdução", "memória", "gestão-do-tempo", "cognição-distribuída"]
 ---

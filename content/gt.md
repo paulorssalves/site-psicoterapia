@@ -4,8 +4,6 @@ date: 2023-08-18T23:54:47-03:00
 draft: false 
 ---
 
-# Gestão do tempo e procrastinação 
-
 A procrastinação e a gestão do tempo são duas coisas fortemente associadas, mas não se pode reduzir uma a outra. Uma pessoa que sabe gerenciar muito bem o seu tempo pode ainda assim sofrer de procrastinação, assim como uma pessoa que nada procrastina pode não ter sistema algum de gerenciamento do tempo.
 
 Essas duas coisas se relacionam com as tarefas que nós devemos ou queremos fazer, mas de formas diferentes: a procrastinação se dá por uma série de fatores: impulsividade, confusão e ansiedade. Por outro lado, um sistema de gestão do tempo ruim, ou a total ausência de um tal sistema, pode resultar em procrastinação, mas também em outros problemas: maior estresse, ansiedade, confusão e esquecimento.

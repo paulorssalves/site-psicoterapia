@@ -1,11 +1,9 @@
 ---
-title: "Sobre"
+title: "Sobre mim"
 date: 2023-06-12T18:28:56-03:00
 draft: false 
 tags: ['pessoal', 'psicologia']
 ---
-
-<h1 id="about-heading">Sobre mim</h1>
 
 Olá! Meu nome é Paulo e eu sou formado em Psicologia pela Universidade do Estado do Rio de Janeiro. 
 
