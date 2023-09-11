@@ -1,7 +1,8 @@
 ---
 title: "Os motivos da procrastinação"
-date: 2023-08-18T23:39:15-03:00
+date: 2023-08-25T12:32:15-03:00
 draft: false 
+featured_image: "/images/adiado2.png"
 tags: ["procrastinacao", "introdução", "motivacao", "personalidade"]
 ---
 

@@ -1,7 +1,9 @@
 ---
 title: "Cognição distribuída"
-date: 2023-08-24T23:39:08-03:00
+date: 2023-08-24T20:39:08-03:00
 draft: false 
+featured_image: "/images/math_notes.jpg"
+attribution: "Freepik"
 tags: ["cognição-distribuída", "memória", "introdução"]
 ---
 

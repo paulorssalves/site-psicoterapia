@@ -6,18 +6,25 @@
 $date-color: #bbb;
 $base-link-color: #1968e6;
 $base-link-darkened: darken($base-link-color, 20%);
-$heading-margin: 16px;
+$base-text-color: #333;
+$background-color: #fff;
 
 // espaços
 $post-card-margin: 16px;
-
+$heading-margin: 16px;
 
 ///////////// estilo
 body {
 	font-family: sans-serif ;
-	background: #fff;
-	color: #333;
+	background: $background-color;
+	color: $base-text-color;
+	font-family: 'Alegreya Sans';
 	margin: 0 auto;
+}
+
+h1,h2,h3,h4{
+	font-family: 'Alegreya Sans SC';
+	font-weight: 500;
 }
 
 .navbar {
@@ -26,13 +33,15 @@ body {
 	overflow: hidden;
 	top: 0;
 	width: 100%;
-	background: #fff;
-	box-shadow: 5px 1px 5px #999;
+	background: $background-color;
+	box-shadow: 5px 1px 5px darken($background-color, 20%);
 
 	h1{
 		display: flex;
 		flex-direction: column;
 		font-size: 1.5em;
+		font-family: "Alegreya Sans SC";
+		font-weight: 400;
 		padding: $heading-margin;
 		margin:0;
 		justify-content: center;
@@ -44,12 +53,14 @@ body {
 			font-size: 0.7em;
 			margin-top: 5px;
 			color: $base-link-darkened;
+			font-weight:300;
 		}
 	}
 
 	h2 {
 
-		font-size: 1em;
+		font-family: 'Alegreya Sans SC';
+		font-size: 1.1em;
 		a {
 			&:hover {
 				color: $base-link-darkened;
@@ -88,6 +99,30 @@ main {
 	max-width: 800px ;
 	margin: auto;
 	padding-top: 160px;
+
+	ul {
+
+		padding: 0;
+	}
+	article {
+		margin: 1em;
+
+		h1 {
+			text-align: center;
+		}
+		p {
+			text-align: justify;
+		}
+
+		a {
+			color: $base-link-color;
+			text-decoration: none;
+			&:hover {
+				color: $base-link-darkened;
+				transition: 0.5s ease-out;
+			}
+		}
+	}
 		
 }
 
@@ -100,8 +135,27 @@ header h1 {
 }
 
 footer {
-	text-align: center ;
+	
+	margin: 2em;
+	text-align: left ;
 	clear: both ;
+
+	h3 {
+		font-family: "Alegreya Sans SC";	
+	}
+
+	span {
+		font-family: "Alegreya Sans SC";
+		font-weight: 400;
+	}
+	#sitemap {
+		ul  {
+			list-style: none;	
+			li>a{
+				color: $base-link-color;
+			}
+		}
+	}
 }
 
 /* For TAGLIST.HTML */
@@ -136,7 +190,7 @@ footer {
 
 	margin: 1em;
 	border: 0px solid gray;
-	box-shadow: 1px 1px 15px #ccc;
+	box-shadow: 1px 1px 15px darken($background-color, 20%);
 
 	h2,h3 {
 		padding-top: 1em;
@@ -184,4 +238,12 @@ footer {
 			font-size: 0.7em;
 		}
 	}
+}
+
+.attribution {
+	color: $date-color;
+	font-style: italic;
+	font-size: 0.7em;
+	display: block;
+	text-align: right;
 }

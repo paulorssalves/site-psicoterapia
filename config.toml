@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "http://paulorssalves.com.br/"
+languageCode = "pt-br"
 summaryLength = 15
-title = "Psicólogo Paulo Alves"
+title = "Paulo Alves | Psicólogo | Procrastinação e Gestão do Tempo"
 
 theme = "lugo"
 
@@ -11,7 +11,7 @@ theme = "lugo"
 
 [menu]
 	[[menu.main]]
-		name = "Procrastinação e Gestão do Tempo" 
+		name = "Gestão do tempo" 
 		url= "/gt/" 
 		weight = 1
 	[[menu.main]]

@@ -12,4 +12,4 @@ Trabalho por duas frontes: a **análise do comportamento** e a **investigação 
 
 Tal como na psicoterapia geral é necessário abordar as questões ora por uma via comportamental, ora por uma investigação dos afetos, também se dá assim no tratamento da procrastinação.
 
-Nesta área, [na qual tenho múltiplas publicações](), trato estudantes e trabalhadores que almejam recuperar (ou conquistar pela primeira vez) o domínio do tempo e livrar-se do sentimento de urgência constante.
+Nesta área, [na qual tenho múltiplas publicações](), trabalho com estudantes e profissionais que almejam recuperar (ou conquistar pela primeira vez) o domínio do tempo e livrar-se do sentimento de urgência constante.
