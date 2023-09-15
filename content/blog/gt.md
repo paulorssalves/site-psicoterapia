@@ -1,6 +1,7 @@
 ---
-title: "Gestão do Tempo e Procrastinação"
-date: 2023-08-18T23:54:47-03:00
+title: "A relação entre gestão do tempo e procrastinação"
+date: 2023-09-09T23:54:47-03:00
+featured_image: "/images/clarity.png"
 draft: false 
 ---
 

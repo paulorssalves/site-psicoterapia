@@ -2,6 +2,7 @@
 title: "Produtividade, trabalho e Burnout"
 date: 2023-09-10T14:13:17-03:00
 draft: false 
+featured_image: "/images/burnout.png"
 tags: ["introdução", "produtividade", "burnout"]
 ---
 

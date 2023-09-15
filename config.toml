@@ -12,11 +12,11 @@ theme = "lugo"
 [menu]
 	[[menu.main]]
 		name = "Gestão do tempo" 
-		url= "/gt/" 
+		url= "/blog/gt/" 
 		weight = 1
 	[[menu.main]]
 		name = "Terapia" 
-		url= "/psicoterapia/" 
+		url= "/blog/terapia/" 
 		weight = 2
 	[[menu.main]]
 		name = "Postagens"

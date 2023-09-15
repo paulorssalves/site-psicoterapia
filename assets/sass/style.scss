@@ -29,9 +29,9 @@ h1,h2,h3,h4{
 
 .navbar {
 	display: block;
-	position: fixed;
-	overflow: hidden;
-	top: 0;
+//	position: fixed;
+//	overflow: hidden;
+//	top: 0;
 	width: 100%;
 	background: $background-color;
 	box-shadow: 5px 1px 5px darken($background-color, 20%);
@@ -39,7 +39,6 @@ h1,h2,h3,h4{
 	h1{
 		display: flex;
 		flex-direction: column;
-		font-size: 1.5em;
 		font-family: "Alegreya Sans SC";
 		font-weight: 400;
 		padding: $heading-margin;
@@ -57,7 +56,7 @@ h1,h2,h3,h4{
 		}
 	}
 
-	h2 {
+	li{
 
 		font-family: 'Alegreya Sans SC';
 		font-size: 1.1em;
@@ -95,10 +94,41 @@ h1,h2,h3,h4{
 	}
 }
 
+.collapse {
+	box-shadow: 1px 1px 15px darken($background-color, 20%);
+	margin-top: 0;
+	position: absolute;
+	right: 0;
+	width: 100%;
+	background: $background-color;
+	ul {
+		margin-top: 0;
+		li {
+			padding: 0.3em 0;
+			list-style: none;
+			text-align: right;
+			margin-right: 1em;
+			a {
+				color: $base-link-color;
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+.collapse { display: none; }
+
+#navbar-toggle-cb:checked ~ .collapse {
+	display: block;
+}
+
+#navbar-toggle-cb {
+	
+}
+
 main {
 	max-width: 800px ;
 	margin: auto;
-	padding-top: 160px;
 
 	ul {
 
@@ -109,6 +139,7 @@ main {
 
 		h1 {
 			text-align: center;
+			font-size: 2em;
 		}
 		p {
 			text-align: justify;
@@ -136,8 +167,9 @@ header h1 {
 
 footer {
 	
-	margin: 2em;
+	margin: 2em auto;
 	text-align: left ;
+	width: 80%;
 	clear: both ;
 
 	h3 {
@@ -156,6 +188,7 @@ footer {
 			}
 		}
 	}
+
 }
 
 /* For TAGLIST.HTML */
@@ -247,3 +280,17 @@ footer {
 	display: block;
 	text-align: right;
 }
+
+.blog-intro {
+	text-align: center;
+	margin-top: 3em;
+}
+
+	.copyright {
+		font-family: "Alegreya Sans";
+		font-weight: 400;
+		display: block;
+		margin: 1em auto;
+		text-align: center;
+	}
+
