@@ -32,4 +32,5 @@ O que eu preciso fazer para terminar este _hereproject_?
 		- Uma para a página inicial
 		- Outra para a página "sobre"
 	- [ ] Fazer com que postagens de blog tenham tamanhos simétricos entre si 
+	- [ ] Consertar largura do footer
 
