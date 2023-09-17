@@ -1,4 +1,4 @@
-#README.md
+# README.md
 
 - tema base do website criado a de um _fork_ do [lugo, do Luke Smith](https://github.com/paulorssalves/lugo).
 
@@ -28,9 +28,10 @@ O que eu preciso fazer para terminar este _hereproject_?
 - [ ] Ver se é possível implementar um formulário (talvez com um serviço do Netlify?) no website, mesmo estático
 
 **Form last!**
-	- [ ] Arrumar duas fotos minhas para colocar no website
-		- Uma para a página inicial
-		- Outra para a página "sobre"
-	- [ ] Fazer com que postagens de blog tenham tamanhos simétricos entre si 
-	- [ ] Consertar largura do footer
+
+- [ ] Arrumar duas fotos minhas para colocar no website
+	- Uma para a página inicial
+	- Outra para a página "sobre"
+- [ ] Fazer com que postagens de blog tenham tamanhos simétricos entre si 
+- [ ] Consertar largura do footer
 
