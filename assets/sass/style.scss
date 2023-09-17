@@ -13,6 +13,10 @@ $background-color: #fff;
 $post-card-margin: 16px;
 $heading-margin: 16px;
 
+// tamanhos de telas
+$medium-bp: 863px;
+$small-bp: 792px;
+
 ///////////// estilo
 body {
 	font-family: sans-serif ;
@@ -20,6 +24,12 @@ body {
 	color: $base-text-color;
 	font-family: 'Alegreya Sans';
 	margin: 0 auto;
+}
+
+.wrapper {
+	max-width: 95%;
+	margin: 0 auto;
+
 }
 
 h1,h2,h3,h4{
@@ -94,6 +104,7 @@ h1,h2,h3,h4{
 	}
 }
 
+/*
 .collapse {
 	box-shadow: 1px 1px 15px darken($background-color, 20%);
 	margin-top: 0;
@@ -115,19 +126,9 @@ h1,h2,h3,h4{
 		}
 	}
 }
-
-.collapse { display: none; }
-
-#navbar-toggle-cb:checked ~ .collapse {
-	display: block;
-}
-
-#navbar-toggle-cb {
-	
-}
+*/
 
 main {
-	max-width: 800px ;
 	margin: auto;
 
 	ul {
@@ -135,7 +136,8 @@ main {
 		padding: 0;
 	}
 	article {
-		margin: 1em;
+		max-width: 80%;
+		margin: 1em auto;
 
 		h1 {
 			text-align: center;
@@ -157,19 +159,16 @@ main {
 		
 }
 
-img {
-	max-width: 100% ;
-}
-
 header h1 {
 	text-align: center ;
 }
 
 footer {
 	
-	margin: 2em auto;
+	background-color: darken($background-color, 3%);
+	padding: 1em 2em;
 	text-align: left ;
-	width: 80%;
+	width: 100%;
 	clear: both ;
 
 	h3 {
@@ -219,11 +218,27 @@ footer {
 
 }
 
+img {
+	width: 100%;
+	height: 100%;
+}
 .blogpost-card {
 
 	margin: 1em;
 	border: 0px solid gray;
 	box-shadow: 1px 1px 15px darken($background-color, 20%);
+
+	.featured-image {
+			a{
+				img {
+					@media screen and (min-width: $small-bp) {
+						min-width: calc(949px / 3);
+						min-height: calc(704px / 3);
+						object-fit: cover;
+				}
+			}
+		}
+	}
 
 	h2,h3 {
 		padding-top: 1em;
@@ -286,11 +301,138 @@ footer {
 	margin-top: 3em;
 }
 
-	.copyright {
-		font-family: "Alegreya Sans";
-		font-weight: 400;
-		display: block;
-		margin: 1em auto;
+.copyright {
+	font-family: "Alegreya Sans";
+	font-weight: 400;
+	display: block;
+	margin: 1em auto;
+	text-align: center;
+}
+
+.collapse { 
+	display:none; 
+	position: absolute;
+	background-color: $background-color;
+	left: 0;
+	top: 86px;
+	width: 100%;
+	box-shadow: 0 5px 5px darken($background-color, 20%);
+	ul {
+		list-style: none;
 		text-align: center;
+		padding: 0;
+		li {
+			font-size: 1.3em;
+			padding: 2vh;
+			display: block;
+			width: 100%;
+			&:hover {
+				background-color: darken($background-color, 5%);	
+			}
+		}
+	}
+}
+/* show the collapse when navbar toggle is checked */
+#navbar-toggle-cbox:checked ~ .collapse {
+    display: block;
+		@media screen and (min-width: $medium-bp){
+		display: none;
+	}
+}
+
+/* the checkbox used only internally; don't display it */
+#navbar-toggle-cbox {
+  display:none;
+}
+
+.navbar-header {
+		@media screen and (min-width: $medium-bp){
+		display: none;
+	}
+}
+
+.navbar-header-bsc {
+	display: none;
+	ul {
+		display: block;
+		padding: 0;
+		li {
+			display: inline-block;
+			padding: 0 1em;
+			&:first-child {
+				padding: 0 1em 0 0;	
+			}
+			&:last-child {
+				padding: 0 0 0 1em;
+			}
+		}
 	}
 
+	@media screen and (min-width: $medium-bp){
+		display: block;
+	}
+}
+
+.blogpost-list {
+	display: flex;
+	flex-wrap: wrap;
+
+	li {
+		flex: 100%;
+	}
+
+	@media screen and (min-width: $small-bp) {
+		li {
+			flex: 30%;
+		}
+	}
+}
+
+.paginator {
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+	.pagination {
+		display: block;
+		.page-item {
+			display: inline-block;
+			padding: 0.5em;
+			box-shadow: 0px 0px 1px lighten($base-link-color, 10%); 
+			border-radius: 5px;
+
+			&:hover:not(.disabled) {
+					background-color:	lighten($base-link-color, 10%);
+					a {
+						color: $background-color;
+					}
+					transition: 0.3s ease-out;
+				}
+
+			.page-link {
+				color: $base-link-color;
+				text-decoration: none;
+			}
+		}
+		.disabled {
+			user-select: none;
+			box-shadow: 0 0 1px $date-color;
+			color: $date-color;
+			.page-link {
+					color: $date-color;
+			}
+			&:hover {
+				background-color: $background-color;	
+			}
+
+		}
+		.active {
+
+				background-color: lighten($base-link-color, 10%); 
+			.page-link {
+				color: $background-color;
+			}
+		}
+
+	}
+
+}
