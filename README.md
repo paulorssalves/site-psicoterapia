@@ -1,6 +1,4 @@
-# README.md
-
-- tema base do website criado a de um _fork_ do [lugo, do Luke Smith](https://github.com/paulorssalves/lugo).
+Tema base do website criado a de um _fork_ do [lugo, do Luke Smith](https://github.com/paulorssalves/lugo).
 
 ## Afazeres
 
