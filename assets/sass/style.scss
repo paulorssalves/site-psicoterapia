@@ -471,12 +471,11 @@ img {
 			margin: 0 0.2em;
 			box-shadow: 0px 0px 1px lighten($base-link-color, 10%); 
 			border-radius: 5px;
+			color: $base-text-color; 
 
 			&:hover:not(.disabled) {
 					background-color:	lighten($base-link-color, 10%);
-					a {
-						color: $background-color;
-					}
+					color: $background-color;
 					transition: 0.3s ease-out;
 				}
 
@@ -500,9 +499,7 @@ img {
 		.active {
 
 				background-color: lighten($base-link-color, 10%); 
-			.page-link {
 				color: $background-color;
-			}
 		}
 
 	}
