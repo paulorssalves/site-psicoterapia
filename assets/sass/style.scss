@@ -262,8 +262,9 @@ img {
 	display: flex;
 	flex-wrap: wrap;
 	@media screen and (min-width: $smaller-bp) {
-		width: 95%;	
+		justify-content: center;
 		margin: 0 auto;
+		width: 95%;
 	}
 }
 
@@ -274,13 +275,18 @@ img {
 	margin: 1em;
 	border: 0px solid gray;
 	box-shadow: 1px 1px 15px darken($background-color, 20%);
+	flex-wrap: nowrap;
 
 	@media screen and (min-width: $smaller-bp) {
-		flex: 35%;
+		flex-grow: 0;
+		flex-shrink: 1;
+		flex-basis: 45%;
 	}
 
 	@media screen and (min-width: $medium-bp) {
-		flex: 25%;
+		flex-grow: 0;
+		flex-shrink: 1;
+		flex-basis: 29%;
 	}
 
 	.featured-image {
