@@ -11,3 +11,4 @@ Layout do website criado a partir de um _fork_ do tema [lugo, do Luke Smith](htt
 		- Celular
 		- Email
 	- [ ] Ver se é possível implementar um formulário (talvez com um serviço do Netlify?) no website, mesmo estático
+- [ ] Consertar o span que dá a fonte de imagens que exigem atribuição de autoria; removê-lo da `<div>` que coloca um fundo cinza atrás da imagem; colocá-lo abaixo dessa `<div>`.
