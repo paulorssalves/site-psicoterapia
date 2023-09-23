@@ -385,6 +385,11 @@ img {
 	font-size: 0.7em;
 	display: block;
 	text-align: right;
+	width: 100%;
+
+	@media screen and (min-width: $smaller-bp) {
+		width: 80%;
+	}
 }
 
 .blog-intro {
@@ -586,4 +591,62 @@ img {
 	&::after {
 		clear: both;
 	}
+}
+
+.get-in-contact {
+		margin: 0 auto;
+		p {
+			margin: 0;
+		}
+		i {
+			margin-left: 1em;
+		}
+		margin-bottom: 1em;
+		@media screen and (min-width: $medium-bp)
+		{
+			max-width: 90%;
+		}
+}
+
+.contact-form {
+	color: $base-text-color;
+	font-family: "Alegreya Sans SC";
+	border: 0;
+	fieldset {
+		margin: 0 auto;
+		border: none;
+		padding: 1em 0;
+		label {
+			display: block;
+		}
+		input {
+			display: block;
+			width: 100%;
+		}
+		textarea {
+			display: block;
+			width: 100%;
+			max-width: 100%;
+			resize: none;
+			min-height: 10em;
+			line-height: 1.5em;
+		}
+		@media screen and (min-width: $medium-bp) {
+			max-width: 90%;
+		}
+	}
+}
+
+.form-submit {
+	background-color: $base-link-color;
+	font-family: "Alegreya Sans SC";
+	color: $background-color;
+	border: 0;
+	font-size: 1.2em;
+}
+
+.formkeep-logo {
+	padding-top: 4rem;
+	padding-bottom: 3rem;
+	text-align: center;
 }
