@@ -657,13 +657,13 @@ img {
 }
 
 .whatsapp-button {
-	@media screen and (max-width: 344px) { 
+	@media screen and (max-width: $smaller-bp) { 
 		width: 84%;
 	}
 
 	position: fixed;
-	bottom: 0;
-	margin: 1em 0.5em;
+	bottom: 10px;
+	margin: 0 1em;
 	padding: 0 1em;
 	right: 0;
 	background: $wpp-button-bg; 
@@ -681,7 +681,7 @@ img {
 			font-size: 2em;
 			align-items: center;
 			color: $background-color;
-			justify-content: space-around;
+			justify-content: center;
 			&:hover {
 				text-decoration: none;
 			}
