@@ -1,6 +1,6 @@
 ---
 title: Homepage 
-me_pic: ""
+# yet to set: me_pic: 
 header: "Psicoterapia, tratamento para procrastinação e treinamento em gestão do tempo"
 title1: "Psicoterapia"
 

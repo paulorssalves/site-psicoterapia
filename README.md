@@ -7,9 +7,10 @@ Layout do website criado a partir de um _fork_ do tema [lugo, do Luke Smith](htt
 - [ ] Arrumar duas fotos minhas para colocar no website
 	- [ ] Uma para a página inicial
 	- [ ] Outra para a página "sobre"
-- [ ] Implementar link do WhatsApp no meu site.
+- [X] Implementar link do WhatsApp no meu site.
 - [ ] Editar página "sobre"; colocar um conteúdo mais interessante.
-- [ ] Adicionar animação de `&:hover` no botão do formulário
+- [ ] Editar conteúdo da página principal do site para transmitir uma atitude mais reflexiva, e não meramente técnica
+- [X] Adicionar animação de `&:hover` no botão do formulário
 
 ### Deploy
 
