@@ -657,15 +657,16 @@ img {
 }
 
 .whatsapp-button {
+
 	@media screen and (max-width: $smaller-bp) { 
 		width: 84%;
+		right: 5%;
 	}
 
+	right: 1.5%;
 	position: fixed;
 	bottom: 10px;
-	margin: 0 1em;
 	padding: 0 1em;
-	right: 0;
 	background: $wpp-button-bg; 
 	box-shadow: 5px 1px 5px darken($background-color, 20%);
 	border-radius: 5px;
