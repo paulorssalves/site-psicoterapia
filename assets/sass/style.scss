@@ -42,7 +42,7 @@ h1,h2,h3,h4{
 .navbar {
 	display: block;
 	width: 100%;
-	background: $background-color;
+	background: $background-color; /*linear-gradient(to right, lighten(#8a7fe9, 25%),$background-color);*/
 	box-shadow: 5px 1px 5px darken($background-color, 20%);
 
 	h1{
@@ -54,6 +54,7 @@ h1,h2,h3,h4{
 		margin:0;
 		justify-content: center;
 		align-items: center;
+		color: #fff;
 		a {
 			padding: 0;
 			&:hover {
@@ -656,6 +657,10 @@ img {
 }
 
 .whatsapp-button {
+	@media screen and (max-width: 344px) { 
+		width: 84%;
+	}
+
 	position: fixed;
 	bottom: 0;
 	margin: 1em 0.5em;
@@ -663,7 +668,7 @@ img {
 	right: 0;
 	background: $wpp-button-bg; 
 	box-shadow: 5px 1px 5px darken($background-color, 20%);
-			border-radius: 5px;
+	border-radius: 5px;
 	
 			a {
 				text-decoration: none;

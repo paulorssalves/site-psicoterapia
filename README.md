@@ -11,6 +11,7 @@ Layout do website criado a partir de um _fork_ do tema [lugo, do Luke Smith](htt
 - [ ] Editar página "sobre"; colocar um conteúdo mais interessante.
 - [ ] Editar conteúdo da página principal do site para transmitir uma atitude mais reflexiva, e não meramente técnica
 - [X] Adicionar animação de `&:hover` no botão do formulário
+- [ ] Testar degradês na navbar
 
 ### Deploy
 
