@@ -1,6 +1,6 @@
 ---
 title: Homepage 
-# yet to set: me_pic: 
+me_pic: "/images/self01.PNG"
 header: "Psicoterapia e tratamento para problemas de gestão do tempo"
 title1: "Psicoterapia"
 
