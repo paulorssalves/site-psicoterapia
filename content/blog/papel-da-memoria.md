@@ -2,8 +2,7 @@
 title: "A relação da memória com as nossas tarefas"
 date: 2023-08-24T16:39:04-03:00
 draft: false 
-featured_image: "/images/stickers-on-body.jpg"
-attribution: "wayhomestudio (Freepik)"
+featured_image: "/images/stickers-on-body.png"
 tags: ["introdução", "memória", "gestão-do-tempo", "cognição-distribuída"]
 ---
 
