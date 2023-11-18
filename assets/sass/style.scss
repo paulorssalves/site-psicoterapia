@@ -18,6 +18,7 @@ $heading-margin: 16px;
 $medium-bp: 863px;
 $small-bp: 792px;
 $smaller-bp: 684px;
+$about-bp: 1000px;
 
 ///////////// estilo
 body {
@@ -731,7 +732,7 @@ img {
 }
 
 .about-article {
-		@media screen and (min-width: $medium-bp) {
+		@media screen and (min-width: $about-bp) {
 			display: flex;
 			flex-direction: row;			
 			align-items: center;
@@ -750,7 +751,7 @@ img {
 			display: block;
 			margin: 0 auto;
 		}
-		@media screen and (min-width: $medium-bp) {
+		@media screen and (min-width: $about-bp) {
 			background-color: $background-color;
 			img {
 				max-width: 100%;
