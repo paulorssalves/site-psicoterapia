@@ -1,7 +1,7 @@
 baseURL = "http://www.paulorssalves.com.br/"
 languageCode = "pt-br"
 summaryLength = 15
-title = "Paulo Alves | Psicólogo | Procrastinação e Gestão do Tempo"
+title = "Paulo Alves | Psicólogo Clínico"
 paginate = 6
 
 theme = "lugo"
