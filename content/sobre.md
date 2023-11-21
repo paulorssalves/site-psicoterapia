@@ -3,7 +3,7 @@ title: "Sobre mim"
 date: 2023-06-12T18:28:56-03:00
 draft: false 
 tags: ['pessoal', 'psicologia']
-featured_image: '/images/self02.PNG'
+featured_image: '/images/self02.jpg'
 ---
 
 ## Formação
