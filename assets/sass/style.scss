@@ -172,6 +172,8 @@ header h1 {
 	text-align: center ;
 }
 
+
+
 footer {
 	
 	background-color: darken($background-color, 3%);
@@ -492,6 +494,9 @@ img {
 					background-color:	lighten($base-link-color, 10%);
 					color: $background-color;
 					transition: 0.3s ease-out;
+					.page-link {
+						color: $background-color;
+					}
 				}
 
 			.page-link {
@@ -524,8 +529,9 @@ img {
 .index-h1 {
 	text-align: center;
 	margin-top: 1.5em;
-	font-size: 1.5em;
+	font-size: 1.4em;
 }
+
 
 .index-content-separator {
 	display: flex;
@@ -657,20 +663,58 @@ img {
 	text-align: center;
 }
 
+.call-to-action {
+	display: block;
+	margin: 1em auto;
+	max-width: 75%;
+	text-align: center;
+	@media screen and (min-width: $smaller-bp) {
+		max-width: 40%;
+	}
+	@media screen and (min-width: $medium-bp) {
+		max-width: 80%;
+	}
+
+	a {
+		padding: 1em;
+		border-radius: 5px;
+		background-color: #0047ab;
+		color: $background-color;
+		display: block;
+		margin: auto;
+		&:hover {
+			p {
+				text-decoration: underline;
+			}
+		}
+	}
+
+	i,p {
+		display: inline-block;
+		text-decoration: none;
+	}
+	p {
+		font-family: Alegreya Sans SC;
+		margin: 0;
+		font-size: 1.1em;
+	}
+}
 .whatsapp-button {
 
+	/*
 	@media screen and (max-width: $smaller-bp) { 
 		width: 84%;
 		right: 5%;
 	}
+	*/
 
 	right: 1.5%;
 	position: fixed;
 	bottom: 10px;
 	padding: 0 1em;
 	background: $wpp-button-bg; 
-	box-shadow: 5px 1px 5px darken($background-color, 20%);
-	border-radius: 5px;
+	box-shadow: 2px 2px 3px darken($background-color, 30%);
+	border-radius: 100px;
 	
 			a {
 				text-decoration: none;
@@ -680,7 +724,7 @@ img {
 	i {
 			padding: 0.3em 0;
 			display: flex; 
-			font-size: 2em;
+			font-size: 2.3em;
 			align-items: center;
 			color: $background-color;
 			justify-content: center;
@@ -688,10 +732,6 @@ img {
 				text-decoration: none;
 			}
 
-			.talk-to-me {
-				font-family: "Alegreya Sans SC";
-				font-size: 0.5em;
-			}
 			.phone-number {
 				font-size: 0.4em;
 			}
@@ -708,18 +748,54 @@ img {
 
 .pictitle {
 
+	display: flex;		
+	flex-direction: column-reverse;
+
+	.pictitle-copy {
+		max-width: 90%;
+		display: block;
+		margin: auto;
+		@media screen and (min-width: $smaller-bp) {
+			max-width: 75%;
+		}
+		@media screen and (min-width: $medium-bp) {
+			max-width: 100%;
+		}
+	}
+
+	@media screen and (max-width: $smaller-bp) {
+		.index-self-pic {
+			width: 70%;
+		}
+	}
+
 	@media screen and (min-width: $medium-bp) {
-		display: flex;		
+		flex-direction: row;
 		justify-content: center;
 		align-items: center;
 		max-width: 60%;
 		margin: auto;
 
 		.index-h1 {
-			padding: 1em;	
+			margin-top: 0;
+			padding: 0 1em;
+			@media screen and (min-width: $medium-bp) {
+				max-width: 90%;
+				padding: 0 1em;
+			}
 		}
 
 	}
+		.subheader {
+			font-size: 1.1em;
+			display: block;
+			margin: auto;
+			text-align: center;
+			font-family: Alegreya Sans;
+			@media screen and (min-width: $medium-bp) {
+				max-width: 90%;
+			}
+		}
 	.index-self-pic {
 		@media screen and (min-width: $medium-bp) {
 			order: -1;

@@ -1,7 +1,8 @@
 ---
 title: Homepage 
 me_pic: "/images/self03.jpg"
-header: "Psicoterapia e tratamento para problemas de gestão do tempo"
+header: "Promovendo uma relação mais saudável com o tempo e com as tarefas"
+subheader: "Tratamento para procrastinação e gestão do tempo seguindo princípios científicos sólidos e uma filosofia crítica"
 title1: "Psicoterapia"
 
 content1: "Trabalho por duas frontes: a **análise do comportamento** e a **investigação psicodinâmica**. Essas duas abordagens se complementam. Há momentos em que é suficiente aprender novas formas de agir. Em outros, é necessário uma investigação profunda na história pessoal. É um trabalho investigativo, e sobretudo cooperativo, entre o terapeuta e o cliente."
