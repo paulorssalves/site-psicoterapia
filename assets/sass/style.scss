@@ -534,34 +534,34 @@ img {
 
 
 .index-content-separator {
-	display: flex;
-	justify-content: space-evenly;
-	align-items: center;
-	margin: 1em auto;
-	flex-direction: column;
-
+	display: block;
+    width: 100%;
+    margin: 0 auto;
+    p {
+        width: 80%;
+        margin: 1em auto;
+    }
 	@media screen and (min-width: $medium-bp) {
 		flex-direction: row;
-		width: 80%;
+		width: 90%;
 	}
 
 	div {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		@media screen and (min-width: $medium-bp) {
-			width: 50%;
-			align-self: flex-start;
-		}
+        margin: 0 auto;
+        #psicodinâmica {
+            text-align: center;
+        }
 
+        #técnica {
+            text-align: center;
+        }
 		.index-h2 {
 				align-self: center;
 				text-align: center;
 				margin: 0;
-				padding: .5em 0 1.5em 0;
-				@media screen and (min-width: $medium-bp) {
-					padding: 1.5em 0;
+				padding: .5em 0 .5em 0;
+				@media screen and (min-width: $small-bp) {
+					padding: 1.5em 0 0;
 				}
 		}
 
@@ -838,4 +838,244 @@ img {
 
 		}
 	}
+}
+
+.get-to-know {
+    text-align: center;
+    width: 80%;
+    margin: 1em auto;
+    @media screen and (min-width: $small-bp) {
+        margin: 3em auto 2em;
+    }
+}
+
+.top {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.sub {
+    font-size: 1.2em;
+    margin-top: 0;
+    margin-bottom: 2em;;
+    font-weight: 400;
+}
+
+.services {
+
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: space-around; 
+
+    @media screen and (min-width: $medium-bp){
+        width: 87.5%;
+        flex-direction: row;
+    }
+
+    .service {
+        display: flex;
+        flex-direction: column;
+        padding: 2em 0;
+        margin-bottom: 2em;
+	    box-shadow: 1px 1px 15px darken($background-color, 20%);
+        &:first-child {
+            margin-right: 0.5em;
+        }
+        &:nth-child(2) {
+            margin-left: 0.5em;
+        }
+        img {
+            height: auto;
+            width: auto;
+            max-width:40%;
+            margin: 0 auto;
+            display: block;
+            @media screen and (min-width: $smaller-bp){
+                max-width: 25%;
+            }
+            @media screen and (min-width: $medium-bp) { 
+                max-width: 40%;
+            }
+        }
+        h4 {
+            order: -1; 
+            @media screen and (min-width: $small-bp) {
+                order: initial; 
+                margin-bottom: 0.5em;
+            }
+            text-align: center;
+            margin-top: 1.5em;
+            font-size: 1.3em;
+        }
+        h5 {
+            font-weight: 600;
+            font-size: 1em;
+            @media screen and (min-width: $small-bp) {
+                font-size: 0.9em;
+            }
+            margin: 1em auto .5em;
+            padding: 0 3em;
+            text-align: center;
+            font-family: 'Alegreya Sans';
+        }
+        ul {
+            padding: 0 4em;
+            list-style-position: inside;
+            text-align: center;
+            list-style: none;
+            li { margin: 0.5em;}
+            @media screen and (min-width: $medium-bp) {
+               text-align: left; 
+               list-style: circle;
+               li {
+                margin: 0;
+               }
+            }
+        }
+        .call-to-action {
+            margin-top: auto;
+            width: 80%;
+            a {
+                text-decoration: none;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+
+    }
+}
+
+.self-info {
+    background-color: #0047ab;
+    color: $background-color;
+    display: flex;
+    flex-direction: column;
+    @media screen and (min-width: $medium-bp) {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    img {
+        order: -1;
+        margin: -1em auto 1em;
+        border-radius: 5%;
+        border: solid 5px darken(#0047ab, 10%);
+        max-width: 50%;
+        @media screen and (min-width: $smaller-bp) {
+            max-width: 40%;
+        }
+        @media screen and (min-width: $medium-bp) {
+            max-width: 30%;
+            margin: 2em 0 2em 4em;
+            border-radius: 5% 0 0 5%;
+            border: none;
+            box-shadow: -5px 5px 0px darken(#0047ab, 10%);
+            height: 100%;
+            width: 100%;
+            order: 1;
+        }
+
+        @media screen and (min-width: 1047px) {
+            box-shadow: none; 
+            border-radius: 5%;
+            border: solid 5px darken(#0047ab, 10%);
+            max-width: 25%;
+            margin: 1em 0 1em 2em;
+        }
+    }
+
+    div {
+        border-bottom: solid 5px #00ab64;
+        text-align: center;
+        padding: 0 1em 1em;
+        @media screen and (min-width: $medium-bp) {
+            margin: 3em;
+            margin-left: 5em;
+            width: 50%;
+            text-align: justify;
+        }
+
+        @media screen and (min-width: 1047px) {
+
+            margin-left: 2.5em;
+        }
+        h2, h3 {
+            text-align: center;
+        }
+        h3 {
+            margin-bottom: 0em;
+            margin-top: 0em;
+            font-weight: 300;
+            font-size: 1.5em;
+        }
+        h2 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        .grad {
+            font-family: "Alegreya Sans SC";
+            font-weight: 300;
+            text-align: center;
+            margin-top: 0.5em;
+            margin-bottom: 2em;
+        } 
+    }
+}
+
+.how-treatment {
+    h3 {
+        text-align: center;
+        font-size: 2em; 
+    }
+}
+
+.website-introduction {
+    @media screen and (min-width: $medium-bp) {
+        padding-top: 2em;
+    }
+   p {
+        strong {
+            color:  darken(#0047ab, 10%);
+
+        }
+        &:first-child {
+            strong {
+                color:  darken(#ab0047, 10%);
+
+            }
+        }
+   } 
+}
+
+.approach {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    @media screen and (min-width: $small-bp) {
+        flex-direction: row;
+
+    }
+
+    .approach-description {
+	    box-shadow: 1px 1px 15px darken($background-color, 20%);
+        margin: 1em 0; 
+        padding: 1em;
+        @media screen and (min-width: $small-bp) {
+            margin: 0 1em; 
+            max-width: 60%;
+        }
+    }
+
+    .approach01 {
+        strong {
+            color:#ab0047;
+            &:last-child{
+                color:#0047ab;
+         }
+        }
+    }
+    .approach02 {
+        strong {color:#0047ab; }
+    }
 }

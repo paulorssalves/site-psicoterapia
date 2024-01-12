@@ -9,26 +9,22 @@ theme = "lugo"
 [params]
 	main_page = "Paulo Alves"
 	main_page_under = "Psicólogo Clínico"
+	name = "Paulo Alves"
+	crp = "Graduado em Psicologia pela UERJ"
+	self_description = "Sou psicólogo clínico de orientação psicodinâmica, procurando formas investigativas e exploratórias de lidar com o sofrimento mental e sem operar de maneira reducionista. Trabalho com atendimento a adultos e adolescentes na modalidade online.\n\nParalelamente, sou pesquisador na área da psicologia da gestão do tempo, investigando o tema sob óticas cognitivas, filosóficas, quantitativas e sociológicas. Assim, complemento a minha abordagem investigativa com conhecimento acadêmico e técnico."
+	me_pic = "/images/self03.jpg"
+	self_pic = '/images/self02.jpg'
 
 [menu]
 	[[menu.main]]
 		name = "Gestão do tempo" 
-		url= "/blog/gt/" 
-		weight = 1
-	[[menu.main]]
-		name = "Terapia" 
-		url= "/blog/terapia/" 
+		url= "/gt/" 
 		weight = 2
+	[[menu.main]]
+		name = "Psicoterapia" 
+		url= "/psicoterapia/" 
+		weight = 1
 	[[menu.main]]
 		name = "Postagens"
 		url="/blog/"
 		weight = 3
-	[[menu.main]]
-		name = "Contato" 
-		url= "/contato/" 
-		weight = 4
-	[[menu.main]]
-		name = "Sobre" 
-		url= "/sobre/" 
-		weight = 5
-
