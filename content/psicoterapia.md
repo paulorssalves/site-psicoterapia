@@ -1,5 +1,6 @@
 ---
 layout: landing
+title: "Psicoterapia"
 header: "Você pode levar uma vida mais leve"
 subheader: "É possível desvencilhar-se da compulsão, da rigidez e da desmotivação.\n\nÉ possível viver uma vida mais repleta de alegria, em que a ansiedade não é um obstáculo."
 website_introduction: "

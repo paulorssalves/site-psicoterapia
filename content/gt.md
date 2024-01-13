@@ -1,5 +1,6 @@
 ---
 layout: landing
+title: "Gestão do tempo"
 header: "Por uma melhor relação com o tempo e as nossas demandas"
 subheader: "Descubra uma forma harmônica de lidar as demandas e com os planos.\n\n
 	Aprenda uma forma mais leve de lidar com suas tarefas."
