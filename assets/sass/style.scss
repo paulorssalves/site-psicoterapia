@@ -459,12 +459,12 @@ img {
 		padding: 0;
 		li {
 			display: inline-block;
-			padding: 0 1em;
+			padding: 0 0.7em;
 			&:first-child {
-				padding: 0 1em 0 0;	
+				padding: 0 0.7em 0 0;	
 			}
 			&:last-child {
-				padding: 0 0 0 1em;
+				padding: 0 0 0 0.7em;
 			}
 		}
 	}
@@ -1023,7 +1023,7 @@ img {
     }
 }
 
-.how-treatment {
+#how-treatment {
     li { 
 		margin: 0.5em;
     	list-style: circle;
@@ -1035,10 +1035,13 @@ img {
         font-size: 2em; 
     }
 
+	p {
+		strong {color:#0047ab;}
+	}
 	
 }
 
-.website-introduction {
+#website-introduction {
     @media screen and (min-width: $medium-bp) {
         padding-top: 2em;
     }
@@ -1100,7 +1103,7 @@ img {
 		}
 	}
 
-    p {
+	p {
         strong {
             color:  darken(#0047ab, 10%);
 
@@ -1146,7 +1149,7 @@ img {
     }
 }
 
-.gains {
+#gains {
 	p > strong {
 		color:#0047ab;
 	}
@@ -1177,4 +1180,33 @@ img {
 			margin-bottom: initial;
 		}
 	}	
+}
+
+#contato {
+	width: 82.5%;
+	border-radius: 15px;
+	margin: 3em auto;
+	text-align: center;
+	padding: 3em 2em;
+	border-top: solid 3px #00ab64;
+	border-bottom: solid 3px #00ab64;
+	font-family: "Alegreya Sans";
+	h3 {
+		font-size: 2em;
+	font-family: "Alegreya Sans";
+	}
+	h4 {
+	font-family: "Alegreya Sans";
+		font-size: 1.5em;
+	}
+}
+
+#return {
+	font-size: 1.5em;
+	text-align: center;
+	text-decoration: none;
+	color:#0047ab;
+	&:hover {
+		text-decoration: underline;
+	}
 }

@@ -21,10 +21,6 @@ theme = "lugo"
 		url= "/gt/" 
 		weight = 2
 	[[menu.main]]
-		name = "Psicoterapia" 
+		name = "Terapia" 
 		url= "/psicoterapia/" 
 		weight = 1
-	[[menu.main]]
-		name = "Postagens"
-		url="/blog/"
-		weight = 3

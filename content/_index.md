@@ -3,7 +3,10 @@ title: Homepage
 header: "Promovendo saúde mental e harmonia em relação às nossas obrigações e ao tempo"
 subheader: "Tratamento voltado para a saúde mental, bem-estar no trabalho, estudos e uma melhor relação com as tarefas e o tempo."
 
-website_introduction: "São cada vez mais comuns as **queixas** sobre **dificuldades de realizar tarefas**, **seguir planos** ou se **relacionar com o trabalho ou com os estudos** de forma saudável.\n\n**A saúde mental** nos ajuda a dar conta dos nossos **afazeres**, e o **êxito** nas nossas responsabilidades pode contribuir para a **saúde mental**.\n\n**O meu trabalho é focado em **(re)estabelecer a saúde mental** e promover uma **relação mais harmônica** com nossos **afazeres, obrigações e o tempo**.
+website_introduction: "São cada vez mais comuns as **queixas** sobre **dificuldades de realizar tarefas**, **seguir planos** ou se **relacionar com o trabalho ou com os estudos** de forma saudável.\n\n**A saúde mental** nos ajuda a dar conta dos nossos **afazeres**, e o **êxito** nas nossas responsabilidades pode contribuir para a **saúde mental**.
+
+
+O meu trabalho é focado em **(re)estabelecer a saúde mental** e promover uma **relação mais harmônica** com nossos **afazeres, obrigações e o tempo**.
 "
 
 approach_intro: "São duas as abordagens com as quais opero"
@@ -19,7 +22,7 @@ Utilizando técnicas pautadas na literatura científica, somado do devido cuidad
 
 
 CTA: "Juntos podemos chegar à raiz do problema. Juntos podemos encontrar soluções práticas"
-CTA_sub: "Conheça os meus serviços"
+CTA_sub: "Conheça as minhas práticas"
 
 therapy_icon: "/images/untangling.png"
 service_psychotherapy: "Psicoterapia"

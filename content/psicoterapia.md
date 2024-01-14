@@ -4,7 +4,9 @@ title: "Psicoterapia"
 header: "Você pode levar uma vida mais leve"
 subheader: "É possível desvencilhar-se da compulsão, da rigidez e da desmotivação.\n\nÉ possível viver uma vida mais repleta de alegria, em que a ansiedade não é um obstáculo."
 website_introduction: "
-**Ansiedade**, **depressão**, sensação de **esgotamento** e **sobrecarga** são males comuns nos dias de hoje. A vida exige de nós uma intensidade que frequentemente nos coloca no nosso limite ou além dele. Esse cenário pode nos acarretar também **problemas de motivação**, **angústia** e **dúvidas torturantes**, principalmente diante de escolhas que nos são cruciais.
+### **Ansiedade**, **depressão**, **esgotamento**, **sobrecarga** 
+
+Esses são alguns males comuns nos dias de hoje. A vida exige de nós uma intensidade que frequentemente nos coloca no nosso limite ou além dele. Esse cenário pode nos acarretar também problemas de motivação, angústia e dúvidas torturantes, principalmente diante de escolhas que nos são cruciais.
 
 
 É impossível isolar completamente os desafios da nossa vida social do sofrimento mental; os dois se mesclam e interagem. A **psicoterapia psicodinâmica** é uma potente ferramenta para nos auxiliar a conquistar maior **saúde mental** e navegar por esses desafios.
