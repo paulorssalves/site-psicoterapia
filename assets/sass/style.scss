@@ -165,6 +165,14 @@ main {
 		@media screen and (min-width: $medium-bp) {
 			max-width: 80%;
 		}
+		
+		.call-to-action {
+			&:hover {
+				a {
+				color: white;
+				}
+			}
+		}
 	}
 }
 

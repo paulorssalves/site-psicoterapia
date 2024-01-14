@@ -18,7 +18,7 @@ theme = "lugo"
 [menu]
 	[[menu.main]]
 		name = "Gestão do tempo" 
-		url= "/gt/" 
+		url= "/tempo/" 
 		weight = 2
 	[[menu.main]]
 		name = "Terapia" 
