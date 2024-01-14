@@ -4,10 +4,10 @@ title: "Psicoterapia"
 header: "Você pode levar uma vida mais leve"
 subheader: "É possível desvencilhar-se da compulsão, da rigidez e da desmotivação.\n\nÉ possível viver uma vida mais repleta de alegria, em que a ansiedade não é um obstáculo."
 website_introduction: "
-Ansiedade, depressão, sensação de esgotamento e sobrecarga são males comuns nos dias de hoje. A vida exige de nós uma intensidade que frequentemente nos coloca no nosso limite ou além dele. Esse cenário pode nos acarretar também problemas de motivação, angústia e dúvidas torturantes, principalmente diante de escolhas que nos são cruciais.
+**Ansiedade**, **depressão**, sensação de **esgotamento** e **sobrecarga** são males comuns nos dias de hoje. A vida exige de nós uma intensidade que frequentemente nos coloca no nosso limite ou além dele. Esse cenário pode nos acarretar também **problemas de motivação**, **angústia** e **dúvidas torturantes**, principalmente diante de escolhas que nos são cruciais.
 
 
-É impossível isolar completamente os desafios da nossa vida social do sofrimento mental; os dois se mesclam e interagem. A psicoterapia psicodinâmica é uma potente ferramenta para nos auxiliar a conquistar maior saúde mental e navegar por esses desafios.
+É impossível isolar completamente os desafios da nossa vida social do sofrimento mental; os dois se mesclam e interagem. A **psicoterapia psicodinâmica** é uma potente ferramenta para nos auxiliar a conquistar maior **saúde mental** e navegar por esses desafios.
 
 "
 
@@ -38,13 +38,13 @@ Isso nos permite obter um maior senso de liberdade, espontaneidade, autenticidad
 "
 
 gains: "
-O meu trabalho psicoterapêutico compõe um espaço e uma prática de confiança, segurança e confidencialidade. Ela também é capaz de te trazer:
+O meu trabalho psicoterapêutico compõe um espaço e uma prática de **confiança**, **segurança** e **confidencialidade**. Meu objetivo com ele é te trazer: 
 
 
-- Maior senso de liberdade e aumento da sensação de potência e autonomia na própria vida;
+- Maior **senso de liberdade** e aumento da **sensação de capacidade** e **autonomia** na própria vida
 
-- Alívio dos sintomas que te afligem e aprofundamento do autoconhecimento;
+- **Alívio** dos sintomas que te afligem e aprofundamento do **autoconhecimento**
 
-- Tratamento funcional com profissional experiente
+- **Tratamento eficaz com profissional experiente**
 "
 ---
