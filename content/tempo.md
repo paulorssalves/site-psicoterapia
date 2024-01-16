@@ -9,24 +9,27 @@ website_introduction: "Os tempos são cada vez mais acelerados. Certos autores c
 ### Assim, é possível que você esteja passando por:"
 
 gt_intro0201: " 
-- Perda e esquecimento de prazos
+	- ![test](/images/gt/1.svg)\nPerda e esquecimento de prazos
 
-- Dificuldade de parar de trabalhar
+- ![test](/images/gt/2.svg)\nDificuldade de parar de trabalhar
 
-- Dificuldades de organização"
+- ![test](/images/gt/3.svg)\nDificuldades de organização"
 
 gt_intro0202: "
-- Sensação de sobrecarga
+- ![test](/images/gt/4.svg)\nSensação de sobrecarga
 
-- Procrastinação
+- ![test](/images/gt/5.svg)\nProcrastinação
 
-- Burnout"
+- ![test](/images/gt/6.svg)\nBurnout"
 
 gt_intro03: "
 Cada um desses problemas pode ser, total ou parcialmente, de ordem técnica (ou seja, questão de aprender o método correto) ou de ordem psicológica (oriundo de modelos mentais de qualidade questionável ou de afetos inconscientes ainda não elaborados). 
 
 #### Como psicólogo, eu posso te levar ao **conhecimento da causa** das suas dificuldades e **auxiliar** você a **lidar com esses desafios**.
 "
+
+video_description: "É possível ter uma relação mais harmônica com o tempo"
+video_link: "m5Z1n5AcgM4"
 
 how_treatment: "
 
@@ -54,12 +57,12 @@ No meu trabalho referente à gestão do tempo, preocupo-me em ir além da mera p
 ### Meu objetivo é te auxiliar a: 
 
 
-- **Superar** a procrastinação
+- ![test](/images/gt/7.svg)\n**Superar** a procrastinação
 
-- Obter maior **percepção de domínio** sobre seus afazeres
+- ![test](/images/gt/8.svg)\nObter maior **percepção de domínio** sobre seus afazeres
 
-- Alcançar um estado de **maior organização** sem limitar a espontaneidade
+- ![test](/images/gt/9.svg)\nAlcançar um estado de **maior organização** sem limitar a espontaneidade
 
-- Aprender a relacionar-se com **mais harmonia** com o trabalho, estudos e demandas de múltiplas áreas da vida
+- ![test](/images/gt/10.svg)\nAprender a relacionar-se com **mais harmonia** com o trabalho, estudos e demandas de múltiplas áreas da vida
 "
 ---

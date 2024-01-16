@@ -16,7 +16,7 @@ Esses são alguns males comuns nos dias de hoje. A vida exige de nós uma intens
 how_treatment: "
 ### Como funciona o tratamento
 
-A lógica por trás do funcionamento da psicoterapia psicodinâmica é mais ou menos assim:
+Para entender como o tratamento funciona, é primeiro necessário compreender de onde vêm os sintomas que nós tratamos:
 
 
 - Você já deve ter tido algum pensamento intrusivo -- pensamentos desagradáveis que você não queria ter;
@@ -25,14 +25,14 @@ A lógica por trás do funcionamento da psicoterapia psicodinâmica é mais ou m
 
 - Ou seja, os pensamentos têm uma certa autonomia. Os pensamentos que te incomodam, entretanto, são os que chegam à sua consciência;
 
-- Há pensamentos que não chegam à sua consciência, mas que possuem o mesmo tipo de autonomia;
+- **Há pensamentos que não chegam à sua consciência, mas que possuem o mesmo tipo de autonomia**;
 
-- Esses pensamentos se tornam inconscientes porque, por uma série de fatores -- critérios morais, pressa, aversão, etc. -- nós nos proibimos de pensá-los na primeira vez em que eles se sugerem para nós, com frequência sem perceber que estamos fazendo isso.
+- Esses pensamentos se tornam **inconscientes** porque, por uma série de fatores -- critérios morais, pressa, aversão, etc. -- nós nos proibimos de pensá-los na primeira vez em que eles se sugerem para nós, com frequência sem perceber que estamos fazendo isso.
 
-- Por causa de sua autonomia, ele continua surtindo efeitos. Mas como ele não é consciente, os efeitos são indiretos: enrijecimentos no modo de ser, compulsões, criatividade reduzida, padrões repetitivos de comportamento autodestrutivo e assim por diante.
+- Por causa de sua autonomia, **ele continua surtindo efeitos**. Mas como ele não é consciente, os efeitos são **indiretos**: enrijecimentos no modo de ser, compulsões, criatividade reduzida, padrões repetitivos de comportamento autodestrutivo, respostas emocionais exageradas e assim por diante.
 
 
-A psicoterapia psicodinâmica almeja, por meio de uma aliança entre terapeuta e cliente, investigar e encontrar quais são esses pensamentos aos quais nós, a princípio, não temos acesso direto. Descobrir esses pensamentos permite que nos livremos das compulsões e limitações que eles provocam e a criar novos hábitos, diferentes daqueles que desenvolvemos sob a influência desse conteúdo inconsciente.
+A psicoterapia psicodinâmica almeja, por meio de uma aliança entre terapeuta e cliente, investigar e encontrar quais são esses pensamentos aos quais nós, a princípio, não temos acesso direto. Descobrir esses pensamentos permite que nós tomemos decisões e adotemos hábitos diferentes daqueles que nós adotamos sem perceber por causa desse material inconsciente. 
 
 
 Isso nos permite obter um maior senso de liberdade, espontaneidade, autenticidade e autonomia, além do aumento na saúde mental e aprimoramento da qualidade de vida.
@@ -43,10 +43,10 @@ gains: "
 O meu trabalho psicoterapêutico compõe um espaço e uma prática de **confiança**, **segurança** e **confidencialidade**. Meu objetivo com ele é te trazer: 
 
 
-- Maior **senso de liberdade** e aumento da **sensação de capacidade** e **autonomia** na própria vida
+- ![test](/images/therapy/1.svg)\nMaior **senso de liberdade** e aumento da **sensação de capacidade** e **autonomia** na própria vida
 
-- **Alívio** dos sintomas que te afligem e aprofundamento do **autoconhecimento**
+- ![test](/images/therapy/2.svg)\n**Tratamento eficaz com profissional experiente**
 
-- **Tratamento eficaz com profissional experiente**
+- ![test](/images/therapy/3.svg)\n**Alívio** dos sintomas que te afligem e aprofundamento do **autoconhecimento**
 "
 ---
