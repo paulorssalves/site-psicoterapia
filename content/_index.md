@@ -13,12 +13,12 @@ approach_intro: "São duas as abordagens com as quais opero"
 approach01_description: "
 ### Psicodinâmica
 
-![test](/images/intro/1.svg)\n\nHá **dificuldades** que enfrentamos por conta de **problemas de ordem afetiva**, dos quais não temos consciência. Embora muitos problemas possam ser encarados de uma forma puramente estratégica, às vezes temos **bloqueios que nos impedem de fazer algo que poder ser simples**. É aí que entra a **investigação psicodinâmica.**"
+![](/images/intro/1.svg)\n\nHá **dificuldades** que enfrentamos por conta de **problemas de ordem afetiva**, dos quais não temos consciência. Embora muitos problemas possam ser encarados de uma forma puramente estratégica, às vezes temos **bloqueios que nos impedem de fazer algo que poder ser simples**. É aí que entra a **investigação psicodinâmica.**"
 
 approach02_description: "
 ### Técnica
 
-![test](/images/intro/2.svg)\n\nUtilizando técnicas pautadas na literatura científica, somado do devido cuidado, nós podemos encontrar meios de **diminuir a resistência** que sentimos diante das tarefas e **aumentar nossa motivação** em realizá-las. Podemos com isso **seguir planos com mais facilidade** e **reduzir o sentimento de sobrecarga.**"
+![](/images/intro/2.svg)\n\nUtilizando técnicas pautadas na literatura científica, somado do devido cuidado, nós podemos encontrar meios de **diminuir a resistência** que sentimos diante das tarefas e **aumentar nossa motivação** em realizá-las. Podemos com isso **seguir planos com mais facilidade** e **reduzir o sentimento de sobrecarga.**"
 
 
 CTA: "Juntos podemos chegar à raiz do problema. Juntos podemos encontrar soluções práticas"

@@ -3,9 +3,16 @@ layout: landing
 title: "Psicoterapia"
 header: "Você pode levar uma vida mais leve"
 subheader: "É possível desvencilhar-se da compulsão, da rigidez e da desmotivação.\n\nÉ possível viver uma vida mais repleta de alegria, em que a ansiedade não é um obstáculo."
-website_introduction: "
-### **Ansiedade**, **depressão**, **esgotamento**, **sobrecarga** 
+ailments: "
+### Você ou alguém que você conhece pode estar sofrendo de um ou mais desses sintomas:
 
+- ![](/images/therapy/4.svg)\nSensação de esgotamento
+
+- ![](/images/therapy/5.svg)\nAnsiedade
+
+- ![](/images/therapy/6.svg)\nDepressão"
+
+website_introduction: "
 Esses são alguns males comuns nos dias de hoje. A vida exige de nós uma intensidade que frequentemente nos coloca no nosso limite ou além dele. Esse cenário pode nos acarretar também problemas de motivação, angústia e dúvidas torturantes, principalmente diante de escolhas que nos são cruciais.
 
 
@@ -43,10 +50,10 @@ gains: "
 O meu trabalho psicoterapêutico compõe um espaço e uma prática de **confiança**, **segurança** e **confidencialidade**. Meu objetivo com ele é te trazer: 
 
 
-- ![test](/images/therapy/1.svg)\nMaior **senso de liberdade** e aumento da **sensação de capacidade** e **autonomia** na própria vida
+- ![](/images/therapy/1.svg)\nMaior **senso de liberdade** e aumento da **sensação de capacidade** e **autonomia** na própria vida
 
-- ![test](/images/therapy/2.svg)\n**Tratamento eficaz com profissional experiente**
+- ![](/images/therapy/2.svg)\n**Tratamento eficaz com profissional experiente**
 
-- ![test](/images/therapy/3.svg)\n**Alívio** dos sintomas que te afligem e aprofundamento do **autoconhecimento**
+- ![](/images/therapy/3.svg)\n**Alívio** dos sintomas que te afligem e aprofundamento do **autoconhecimento**
 "
 ---

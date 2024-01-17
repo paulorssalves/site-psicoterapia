@@ -9,18 +9,18 @@ website_introduction: "Os tempos são cada vez mais acelerados. Certos autores c
 ### Assim, é possível que você esteja passando por:"
 
 gt_intro0201: " 
-	- ![test](/images/gt/1.svg)\nPerda e esquecimento de prazos
+- ![](/images/gt/1.svg)\nPerda e esquecimento de prazos
 
-- ![test](/images/gt/2.svg)\nDificuldade de parar de trabalhar
+- ![](/images/gt/2.svg)\nDificuldade de parar de trabalhar
 
-- ![test](/images/gt/3.svg)\nDificuldades de organização"
+- ![](/images/gt/3.svg)\nDificuldades de organização"
 
 gt_intro0202: "
-- ![test](/images/gt/4.svg)\nSensação de sobrecarga
+- ![](/images/gt/4.svg)\nSensação de sobrecarga
 
-- ![test](/images/gt/5.svg)\nProcrastinação
+- ![](/images/gt/5.svg)\nProcrastinação
 
-- ![test](/images/gt/6.svg)\nBurnout"
+- ![](/images/gt/6.svg)\nBurnout"
 
 gt_intro03: "
 Cada um desses problemas pode ser, total ou parcialmente, de ordem técnica (ou seja, questão de aprender o método correto) ou de ordem psicológica (oriundo de modelos mentais de qualidade questionável ou de afetos inconscientes ainda não elaborados). 
@@ -57,12 +57,12 @@ No meu trabalho referente à gestão do tempo, preocupo-me em ir além da mera p
 ### Meu objetivo é te auxiliar a: 
 
 
-- ![test](/images/gt/7.svg)\n**Superar** a procrastinação
+- ![](/images/gt/7.svg)\n**Superar** a procrastinação
 
-- ![test](/images/gt/8.svg)\nObter maior **percepção de domínio** sobre seus afazeres
+- ![](/images/gt/8.svg)\nObter maior **percepção de domínio** sobre seus afazeres
 
-- ![test](/images/gt/9.svg)\nAlcançar um estado de **maior organização** sem limitar a espontaneidade
+- ![](/images/gt/9.svg)\nAlcançar um estado de **maior organização** sem limitar a espontaneidade
 
-- ![test](/images/gt/10.svg)\nAprender a relacionar-se com **mais harmonia** com o trabalho, estudos e demandas de múltiplas áreas da vida
+- ![](/images/gt/10.svg)\nAprender a relacionar-se com **mais harmonia** com o trabalho, estudos e demandas de múltiplas áreas da vida
 "
 ---
