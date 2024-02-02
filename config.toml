@@ -17,11 +17,11 @@ theme = "lugo"
 
 	[params.instagram]	
 		post1_url = "https://www.instagram.com/p/C20YsLnOQ1c/?img_index=1"
-		post1_img = "images/instagram/cronometragem.png"
+		post1_img = "/images/instagram/cronometragem.png"
 		post2_url = "https://www.instagram.com/p/C2ySGnbrJ16/?img_index=1"
-		post2_img = "images/instagram/urgencia.png"
+		post2_img = "/images/instagram/urgencia.png"
 		post3_url = "https://www.instagram.com/p/C2fiLxNrx03/?img_index=1"
-		post3_img = "images/instagram/esteira.png"
+		post3_img = "/images/instagram/esteira.png"
 [menu]
 	[[menu.main]]
 		name = "Gestão do tempo" 
