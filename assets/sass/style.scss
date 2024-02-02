@@ -8,6 +8,7 @@ $base-link-color: #333; //#1968e6;
 $base-link-darkened: darken($base-link-color, 20%);
 $base-text-color: #333;
 $background-color: #fff;
+	$bg-alpha: transparentize($background-color, 0.5);
 $wpp-button-bg: darken(#25D366, 10%);
 
 // espaços
@@ -184,11 +185,13 @@ header h1 {
 
 footer {
 	
-	background-color: darken($background-color, 3%);
-	padding: 1em 0em;
+	background-color: #0047ab; 
+	border-top: solid 5px #00ab64;
+	padding: 1.5em 0em;
 	margin-top: 1em;
 	text-align: left ;
 	width: 100%;
+	color: $background-color;
 	clear: both ;
 
 	h3 {
@@ -216,7 +219,7 @@ footer {
 				margin: 0.5em 0;
 			}
 			li>a{
-				color: $base-link-color;
+				color: $background-color;
 			}
 		}
 		display: flex;
@@ -224,6 +227,7 @@ footer {
 		justify-content: center;
 		width: 90%;
 		margin: 0 auto;
+		padding-top: 2em;
 	}
 
 	.footer-div {
@@ -411,10 +415,13 @@ img {
 }
 
 .copyright {
-	font-family: "Alegreya Sans";
+	font-family: "Alegreya Sans SC";
 	font-weight: 400;
 	display: block;
-	margin: 1em auto;
+	margin: auto;
+	padding: 0.25em;
+	background-color: opacify(darken(#0047ab, 15%),.9);
+	color: $background-color;
 	text-align: center;
 }
 
@@ -717,6 +724,7 @@ img {
 	*/
 
 	right: 1.5%;
+	z-index: 10;
 	position: fixed;
 	bottom: 10px;
 	padding: 0 1em;
@@ -960,6 +968,7 @@ img {
     color: $background-color;
     display: flex;
     flex-direction: column;
+    border-bottom: solid 5px #00ab64;
     @media screen and (min-width: $medium-bp) {
         flex-direction: row;
         justify-content: space-evenly;
@@ -994,7 +1003,6 @@ img {
     }
 
     div {
-        border-bottom: solid 5px #00ab64;
         text-align: center;
         padding: 0 1em 1em;
         @media screen and (min-width: $medium-bp) {
@@ -1226,12 +1234,11 @@ img {
 
 #contato {
 	width: 82.5%;
-	border-radius: 15px;
 	margin: 3em auto;
 	text-align: center;
 	padding: 3em 2em;
-	border-top: solid 3px #00ab64;
 	border-bottom: solid 3px #00ab64;
+	border-top: solid 3px #00ab64;
 	font-family: "Alegreya Sans";
 	h3 {
 		font-size: 2em;
@@ -1278,4 +1285,49 @@ img {
 
 #full-name {
 	display: none;
+}
+
+#instagram-intro {
+	width: 90%;
+	margin: 6em auto -5em;
+	position: relative;
+	gap: 2.5%;
+	border-radius: 25px 25px 0 0 ;
+	background-color: darken($background-color, 5%);
+	border-bottom: solid 5px #00ab64;
+	display: flex;
+	flex-flow: row wrap;
+	padding: 2em 1em;
+	box-shadow: 5px -5px 5px darken($bg-alpha, 60%);
+	@media screen and (min-width: $medium-bp){
+		padding: 3em 2em 2em;
+		width: 80%;
+	}
+	article {
+		margin: 0 auto;
+		border-radius: 25px;
+		flex-basis: 30%; 
+		flex-shrink: 3;
+		@media screen and (min-width: $medium-bp) {
+			flex-basis: 30%;
+		}
+		a {
+			img {
+				border-radius: 5%;
+				box-shadow: 3px 3px 10px darken($background-color, 20%);
+			}
+		}
+	}
+	#ig-button {
+		flex-basis: 100%;
+		flex-grow: 3;
+		max-width: 70%;
+		margin-bottom: 3em;
+		@media screen and (min-width: $medium-bp) {
+			max-width: 30%;
+			margin-top: 3em;
+			order: 4;	
+			margin-bottom: 0;
+		}
+	}
 }
